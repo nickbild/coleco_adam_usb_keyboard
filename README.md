@@ -1,1 +1,2 @@
-# coleco_adam_usb_keyboard
+# Coleco Adam USB Keyboard
+
