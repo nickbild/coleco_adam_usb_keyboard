@@ -8,6 +8,8 @@ But despite these problems, the Adam did have a pretty amazing keyboard for the 
 
 I do not have an Adam computer, but I do have an Adam keyboard, and I really want to use it, so I built this USB adapter.
 
+![](https://raw.githubusercontent.com/nickbild/coleco_adam_usb_keyboard/main/media/full_kb_sm.jpg)
+
 ## How It Works
 
 The weirdness of the Adam extends to all of its peripherals, including the keyboard.  Instead of a typical keyboard of the time that arranged the keys into a matrix of switches that triggered pins on an interface chip when they were closed, Coleco designed a communications protocol called AdamNet.  The keyboard connects to the computer via an RJ-12 connector with a single data line that communicates over a 62.5 kbit/s half-duplex serial bus.  It contains its own Motorola 6801 microcontroller to cache key presses and send them to the main computer when it asks for them by sending a series of commands via the AdamNet protocol.
@@ -24,6 +26,10 @@ Wiring:
 - VIN (+5V) — RJ 6
 
 ## Media
+
+![](https://raw.githubusercontent.com/nickbild/coleco_adam_usb_keyboard/main/media/attached_close_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/coleco_adam_usb_keyboard/main/media/adapter_sm.jpg)
 
 ## Bill of Materials
 
