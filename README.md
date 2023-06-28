@@ -27,6 +27,8 @@ Wiring:
 
 ## Media
 
+Demo video: [YouTube](https://www.youtube.com/watch?v=ww-IH-VO8OQ)
+
 ![](https://raw.githubusercontent.com/nickbild/coleco_adam_usb_keyboard/main/media/attached_close_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/coleco_adam_usb_keyboard/main/media/adapter_sm.jpg)
